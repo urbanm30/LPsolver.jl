@@ -7,7 +7,7 @@ using POMDPLinter: @POMDP_require, @subreq
 using JuMP 
 
 import POMDPs: Solver
-import POMDPs: solve
+import POMDPs: solve    
 
 export
     LPsolver,
